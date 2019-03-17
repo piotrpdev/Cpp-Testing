@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1530249124 source:c:\users\peter\documents\c++ testing\test.cpp
+	<iostream>
+
+1530252726 source:c:\users\peter\documents\c++ testing\quiz system.cpp
+	<iostream>
+
+1533862989 source:c:\users\peter\documents\c++ testing\highest value.cpp
+	<iostream>
+
+1530256011 source:c:\users\peter\documents\c++ testing\grade determiner.cpp
+	<iostream>
+
+1530258912 source:c:\users\peter\documents\c++ testing\calculator.cpp
+	<cstdlib>
+	<iostream>
+	<iomanip>
+
+1533861534 source:c:\users\peter\documents\c++ testing\pointers.cpp
+	<iostream>
+
+1534820014 source:c:\users\peter\documents\c++ testing\trying to make login.cpp
+	<iostream>
+	<cstdlib>
+
+1537134695 source:c:\users\peter\documents\c++ testing\login system.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<cstdlib>
+	<fstream>
+
+1534831312 source:c:\users\peter\documents\c++ testing\file creater.cpp
+	<iostream>
+	<fstream>
+
+1538323656 source:c:\users\peter\documents\c++ testing\testing.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+
+1535286831 source:c:\users\peter\documents\c++ testing\login system v3.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<cstdlib>
+	<fstream>
+
+1538924322 source:c:\users\games\documents\c++ testing\testing.cpp
+	<iostream>
+
